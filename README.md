@@ -6,3 +6,6 @@
 Online Store based on Django & Vue technologies using Stripe to create products (So that customers can buy). Currency $
 There is a Category of goods, the product itself, a client's address, a client profile. Django Rest Framework => Token was used to create a personal account.
 On the frontend side, I used axios to get the API and I used bulma-toast to create beautiful notification boxes.
+
+
+** Add your token to Checkout.vue & settings.py**
