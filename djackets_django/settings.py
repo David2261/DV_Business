@@ -9,7 +9,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'f_)*$6xz#a7k(6ir&u@+tq8h@_t_9%3nr%9g5z4vdp#*a4)a*o'
+SECRET_KEY = 'YOUR_DJANGO_KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -18,7 +18,7 @@ ALLOWED_HOSTS = []
 
 # Секретный ключ который можно найти здесь
 # https://dashboard.stripe.com/test/dashboard?emailChangeConfirmed=true
-STRIPE_SECRET_KEY = 'sk_test_51JP5v2HCupwEERYOzc202MM5VYADnwd0TV5qvo4TpEZtEk0EnQ4U4Gtm4lWAUjb5dWJPCxgh0aEEJiHcq2aMshK600YixiMTki'
+STRIPE_SECRET_KEY = 'YOUR_STRIPE_KEY'
 
 # Application definition
 
