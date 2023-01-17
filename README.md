@@ -1,9 +1,8 @@
 # Online - Store &middot; [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/David2261/DV_Business/blob/main/LICENSE.md) ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fad_ge_1) ![GitHub repo size](https://img.shields.io/github/repo-size/David2261/DV_Business?style=plastic)
 
-It's an online store where you can create and update products. You can add an item to the cart and checkout it and buy it.
+It's an online store where you can create and update products. You can add an item to the cart and checkout it and buy it. [photos](/.docs/img)
 
 ## What used in the project:
-- windows ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 10
 - python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 3.7
 - django ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 3.0
 - drf ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 3.11
